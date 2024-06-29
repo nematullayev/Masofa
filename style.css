@@ -96,7 +96,8 @@ body {
   border: none;
   border: 2px solid #fff;
   color: #fff;
-  background: black;
+  background-color: aquamarine;
+  color: black;
   outline: none;
   font-size: 12px;
   position: absolute;
@@ -112,7 +113,7 @@ body {
   background-color: aquamarine;
   color: black;
   #turn {
-    background-color: #fff;
+    background-color: rgb(247, 255, 4);
     border: 1px solid black;
     color: black;
   }
